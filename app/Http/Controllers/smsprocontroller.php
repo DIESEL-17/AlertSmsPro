@@ -218,17 +218,32 @@ public function main()
         if (!empty($data)) {
 
             $adminOuatt= [
-                'ouattaraadamajordan@gmail.com' ,
+                'coulcoul.aziz@gmail.com',
+                'ouattaraadamajordan@gmail.com',
+                'co-gerante@groupegain.com',
+                'charge-exploitation@groupegain.com',
             ];
 
             $adminCoul= [
+                // 'ouattaraadamajordan@gmail.com' ,
+                // 'bayokader9@gmail.com',
+                
                 'coulcoul.aziz@gmail.com',
-            ];
+                'ouattaraadamajordan@gmail.com',
+                'cos@wic.ci',
+
+            ];                   
 
             $adminBoss= [
-                'cos@wic.ci',
-                'ouattaraadamajordan@gmail.com',
+                
+                // 'bayokader9@gmail.com',
+               
+
                 'coulcoul.aziz@gmail.com',
+                'ouattaraadamajordan@gmail.com',
+                'cos@wic.ci',
+                'co-gerante@groupegain.com',
+                'charge-exploitation@groupegain.com',
                 
             ];
 
