@@ -220,8 +220,7 @@ public function main()
             $adminOuatt= [
                 'coulcoul.aziz@gmail.com',
                 'ouattaraadamajordan@gmail.com',
-                'co-gerante@groupegain.com',
-                'charge-exploitation@groupegain.com',
+                'dircomgainsarl@gmail.com',
             ];
 
             $adminCoul= [
@@ -242,8 +241,10 @@ public function main()
                 'coulcoul.aziz@gmail.com',
                 'ouattaraadamajordan@gmail.com',
                 'cos@wic.ci',
-                'co-gerante@groupegain.com',
-                'charge-exploitation@groupegain.com',
+                'dircomgainsarl@gmail.com',
+                // 'co-gerante@groupegain.com',
+                // 'charge-exploitation@groupegain.com',
+
                 
             ];
 
