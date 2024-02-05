@@ -221,6 +221,7 @@ public function main()
                 'coulcoul.aziz@gmail.com',
                 'ouattaraadamajordan@gmail.com',
                 'dircomgainsarl@gmail.com',
+                'broutech@gainhight.com',
             ];
 
             $adminCoul= [
@@ -242,6 +243,7 @@ public function main()
                 'ouattaraadamajordan@gmail.com',
                 'cos@wic.ci',
                 'dircomgainsarl@gmail.com',
+                'broutech@gainhight.com',
                 // 'co-gerante@groupegain.com',
                 // 'charge-exploitation@groupegain.com',
 
